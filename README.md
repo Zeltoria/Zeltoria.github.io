@@ -1,0 +1,71 @@
+# Random Anime Quotes
+
+![image](https://github.com/caliphdev/quotesnime/assets/92326690/6aafb13c-5424-49d6-a718-609cba56ce6c)
+
+
+Random Anime Quotes adalah website sederhana yang menampilkan kutipan acak dari berbagai karakter anime. Anda dapat melihat kutipan, berbagi mereka, dan menemukan inspirasi dari karakter anime favorit Anda.
+
+## Fitur
+
+- Tampilkan kutipan acak dari karakter anime.
+- Bagikan kutipan melalui Share API.
+- Perbarui kutipan dengan satu klik.
+- Tampilan responsif untuk pengalaman pengguna yang baik di perangkat apa pun.
+
+## Demo
+
+Anda dapat melihat demo live dari website ini [di sini](https://caliphdev.github.io/quotesnime/).
+
+## Teknologi
+
+- HTML, CSS (Tailwind CSS, Bootstrap)
+- JavaScript (Fetch API)
+- Share API untuk berbagi kutipan
+
+## Cara Penggunaan
+
+1. Clone repositori ini:
+
+   ```bash
+   git clone https://github.com/your-username/random-anime-quotes.git
+   ```
+
+2. Buka `index.html` di browser Anda.
+
+3. Klik tombol "Kutipan Baru" untuk melihat kutipan acak.
+
+4. Klik tombol "Share" untuk berbagi kutipan melalui Share API.
+
+## Kontribusi
+
+Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
+
+1. Fork repositori ini.
+
+2. Buat branch baru:
+
+   ```bash
+   git checkout -b master
+   ```
+
+3. Lakukan perubahan yang diperlukan dan commit:
+
+   ```bash
+   git commit -m "Add some feature"
+   ```
+
+4. Push ke branch Anda:
+
+   ```bash
+   git push origin master
+   ```
+
+5. Buat Pull Request di repositori utama.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+---
+
+Dibuat dengan ❤️ oleh [Nama Anda]
