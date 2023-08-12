@@ -1,6 +1,6 @@
 # Random Anime Quotes
 
-![image](https://github.com/caliphdev/quotesnime/assets/92326690/6aafb13c-5424-49d6-a718-609cba56ce6c)
+![image](https://telegra.ph/file/91f79f68efb61bf65f893.png)
 
 
 Random Anime Quotes adalah website sederhana yang menampilkan kutipan acak dari berbagai karakter anime. Anda dapat melihat kutipan, berbagi mereka, dan menemukan inspirasi dari karakter anime favorit Anda.
