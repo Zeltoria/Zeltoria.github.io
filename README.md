@@ -27,7 +27,7 @@ Anda dapat melihat demo live dari website ini [di sini](https://caliphdev.github
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/your-username/random-anime-quotes.git
+   git clone https://github.com/caliphdev/quotesnime
    ```
 
 2. Buka `index.html` di browser Anda.
@@ -45,7 +45,7 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah ber
 2. Buat branch baru:
 
    ```bash
-   git checkout -b master
+   git checkout -b forked
    ```
 
 3. Lakukan perubahan yang diperlukan dan commit:
@@ -57,7 +57,7 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah ber
 4. Push ke branch Anda:
 
    ```bash
-   git push origin master
+   git push origin forked
    ```
 
 5. Buat Pull Request di repositori utama.
